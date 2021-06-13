@@ -9,6 +9,7 @@
 
 ## Overview
 
+
 In the previous lesson, we saw how to have routes dynamically render different
 components. However, as you may have noticed, each time we rendered one
 component, our previous component disappeared.
